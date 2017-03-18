@@ -1,8 +1,27 @@
 # Larapus - Aplikasi Web Perpustakaan Laravel 5.4
-Larapus adalah sample projek yang dibuat melalui e-book [Seminggu Belajar Laravel](https://leanpub.com/seminggubelajarlaravel) oleh [Rahwat Awaludin](http://facebook.com/rahmat.awaludin).
+Larapus adalah contoh projek yang dibuat melalui e-book [Seminggu Belajar Laravel](https://leanpub.com/seminggubelajarlaravel) oleh [Rahwat Awaludin](http://facebook.com/rahmat.awaludin).
 
 Karena saat membeli e-book masih menggunakan versi 5.3 jadi saya buat dengan versi 5.4.
 Tidak banyak perubahan, hanya upgrade Yajra/Datatables ke v7.0
+
+## Demo
+[http://laravelku.hol.es](http://laravelku.hol.es)
+
+Karena domain belum active di Mailgun untuk mengirim email verifikasi maka saat proses Sign-up akan mendapatkan Error dan sekarang lagi sedang menunggu verifikasi dari Mailgun
+
+Untuk itu silahkan gunakan data berikut untuk login:
+
+- Member:
+
+Username: member@gmail.com
+
+Password: rahasia
+
+- Admin:
+
+Username: admin@gmail.com
+
+Password: rahasia
 
 ## Cara Install
 1. Download repo ini
