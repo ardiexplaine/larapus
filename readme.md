@@ -7,7 +7,7 @@ Tidak banyak perubahan, hanya upgrade Yajra/Datatables ke v7.0
 ## Demo
 [http://laravelku.hol.es](http://laravelku.hol.es)
 
-Karena domain belum active di Mailgun untuk mengirim email verifikasi maka saat proses Sign-up akan mendapatkan Error dan sekarang lagi sedang menunggu verifikasi dari Mailgun
+Karena free account Mailgun tidak bisa mengirim e-mail ke e-mail yang di authorized, jika melakukan Sign-Up e-mail baru maka akan mendapatkan error.
 
 Untuk itu silahkan gunakan data berikut untuk login:
 
