@@ -5,9 +5,9 @@ Karena saat membeli e-book masih menggunakan versi 5.3 jadi saya buat dengan ver
 Tidak banyak perubahan, hanya upgrade Yajra/Datatables ke v7.0
 
 ## Demo
-[http://laravelku.hol.es](http://laravelku.hol.es)
+[http://larapus.tk](http://larapus.tk)
 
-Karena free account Mailgun tidak bisa mengirim e-mail ke e-mail yang di authorized, jika melakukan Sign-Up e-mail baru maka akan mendapatkan error.
+Karena menggunakan domain gratis & free account Mailgun maka hanya bisa mengirim e-mail ke e-mail yang di authorized, jika melakukan Sign-Up e-mail baru maka akan mendapatkan error.
 
 Untuk itu silahkan gunakan data berikut untuk login:
 
