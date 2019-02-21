@@ -4,10 +4,8 @@ Larapus adalah contoh projek yang dibuat melalui e-book [Seminggu Belajar Larave
 Karena saat membeli e-book masih menggunakan versi 5.3 jadi saya buat dengan versi 5.4.
 Tidak banyak perubahan, hanya upgrade Yajra/Datatables ke v7.0
 
-## Demo
-[http://larapus.tk](http://larapus.tk)
-
-Karena menggunakan domain gratis & free account Mailgun maka hanya bisa mengirim e-mail ke e-mail yang di authorized, jika melakukan Sign-Up e-mail baru maka akan mendapatkan error.
+## Login
+Masih ada bug jika melakukan Sign-Up e-mail baru maka akan mendapatkan error.
 
 Untuk itu silahkan gunakan data berikut untuk login:
 
